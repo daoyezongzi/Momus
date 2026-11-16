@@ -1,0 +1,9 @@
+pytest>=8
+scipy
+scikit-learn
+akshare
+tushare
+python-dotenv
+PyYAML
+requests
+pypdf
